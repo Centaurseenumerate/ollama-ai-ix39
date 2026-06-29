@@ -1,4 +1,4 @@
-# 
+# Principal Ollama temas. Con ejecución de código y agentes colaborativos — optimizado para el máximo rendimiento y eficiencia.
 
 
 
